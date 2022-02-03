@@ -44,14 +44,14 @@ This book is for data engineers who want to take the DP-203: Azure Data Engineer
 The book will also help engineers and product managers who are new to Azure or interviewing with companies working on Azure technologies, to get hands-on experience of Azure data technologies. 
 A basic understanding of cloud technologies, extract, transform, and load (ETL), and databases will help you get the most out of this book.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
 
 ### Software and Hardware List
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1-14	   | Azure account (free or paid)        | Windows, Mac OS X, and Linux (Any) |
-| 1-14     | Azure CLI                           | Windows, Mac OS X, and Linux (Any) |
+| 1-15	   | Azure account (free or paid)        | Windows, Mac OS X, and Linux (Any) |
+| 1-15     | Azure CLI                           | Windows, Mac OS X, and Linux (Any) |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781801816069_ColorImages.pdf).
