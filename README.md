@@ -60,7 +60,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Azure Data Scientist Associate Certification Guide [[Packt]](https://www.packtpub.com/product/azure-data-scientist-associate-certification-guide/9781800565005?utm_source=github&utm_medium=repository&utm_campaign=9781800565005) [[Amazon]](https://www.amazon.com/dp/1800565003)
 
-* Data Engineering with Apache Spark, Delta Lake, and Lakehouse [[Packt]](https://www.packtpub.com/product/amazon-sagemaker-best-practices/9781801070522?utm_source=github&utm_medium=repository&utm_campaign=9781801070522) [[Amazon]](https://www.amazon.com/dp/1801077746)
+* Data Engineering with Apache Spark, Delta Lake, and Lakehouse [[Packt]](https://www.packtpub.com/product/data-engineering-with-apache-spark-delta-lake-and-lakehouse/9781801077743?utm_source=github&utm_medium=repository&utm_campaign=9781801077743) [[Amazon]](https://www.amazon.com/dp/1801077746)
 
 ## Get to Know the Authors
 **Newton Alex** 
