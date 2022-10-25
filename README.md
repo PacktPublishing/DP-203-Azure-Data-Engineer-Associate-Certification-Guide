@@ -69,3 +69,7 @@ He started using Hadoop while at Yahoo, USA, where he helped build the first bat
 After Yahoo, he became the leader of the big data team at Pivotal Inc., USA, where he was responsible for the entire open source stack of Pivotal Inc. 
 He later moved to Microsoft and started the Azure Data team in India. 
 He has worked with several Fortune 500 companies to help build their data systems on Azure.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801816069">https://packt.link/free-ebook/9781801816069 </a> </p>
