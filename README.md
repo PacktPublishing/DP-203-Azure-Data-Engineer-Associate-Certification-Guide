@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781801816069)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Azure Data Engineer Associate Certification Guide
 
 <a href="https://www.packtpub.com/product/dp-203-azure-data-engineer-associate-certification-guide/9781801816069?utm_source=github&utm_medium=repository&utm_campaign=9781801816069"><img src="https://static.packt-cdn.com/products/9781801816069/cover/smaller" alt="Azure Data Engineer Associate Certification Guide" height="256px" align="right"></a>
