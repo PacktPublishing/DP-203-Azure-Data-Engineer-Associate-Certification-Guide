@@ -1,7 +1,7 @@
 # Use this script to set your subscription and 
 # create a resource group  in to Azure before running the 
 # other Powershell scripts in this chapter.
-
+#here start all
 $subscriptionName="<INSERT SUBSCRIPTION NAME>"
 $resourceGroup = "<INSERT RESOURCE GROUP NAME>"
 $region = "<INSERT REGION NAME>"
